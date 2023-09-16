@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		centeredSlides: true,
 		navigation: {
      nextEl: '.showcase-navigation__next',
-		 prevtEl: '.showcase-navigation__prev',
+		 prevEl: '.showcase-navigation__prev',
 		}
 	})
 	
